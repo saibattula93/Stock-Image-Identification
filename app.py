@@ -1,0 +1,1 @@
+from Stock_Image_Identification.logger import logging
